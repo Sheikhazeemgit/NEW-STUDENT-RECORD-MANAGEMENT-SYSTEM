@@ -36,7 +36,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-For any inquiries or feedback, please contact SHEIKH AZEEM (email@example.com).
+For any inquiries or feedback, please contact SHEIKH AZEEM (sheikhazeemgithub@gmail.com).
 
 ## Project Link
 
